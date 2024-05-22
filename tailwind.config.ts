@@ -6,6 +6,9 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      maxWidth: {
+        app: '700px'
+      },
       colors: {
         adilson: '#8257e6'
       }
